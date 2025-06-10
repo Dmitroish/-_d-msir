@@ -26,7 +26,7 @@
 
 ### 2.1 Локальний запуск (Python ≥ 3.11)
 ```bash
-git clone https://github.com/<your>/dmsir-mini.git
+git clone https://github.com/Dmitroish/-_d-msir
 cd dmsir-mini
 python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
